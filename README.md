@@ -1,5 +1,3 @@
-![MasterHead](https://media.tenor.com/rJYYh9YwEl8AAAAC/one-photqwero-kannada.gif?raw=1true)
-
 
 <h1 align="center">I Am Mr.KC</h1>
 <h3 align="center">A passionate Standup Comedian and Fullstack Developer from India</h3>
